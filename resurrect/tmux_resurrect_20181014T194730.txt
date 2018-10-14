@@ -1,0 +1,15 @@
+pane	ams	1	:local	0	:	1	:/Users/hedley	1	vim	:vi /Users/hedley/.tmux.conf
+pane	ams	1	:local	0	:	2	:/Users/hedley/Elex/cok/SFS2X/resource	0	zsh	:
+pane	ams	1	:local	0	:	3	:/Users/hedley/.tmux/resurrect	0	zsh	:
+pane	ams	2	:test	0	:	1	:/Users/hedley	0	zsh	:
+pane	ams	2	:test	0	:	2	:/Users/hedley	1	zsh	:
+pane	ams	3	:remote	0	:-	1	:/Users/hedley/.tmux/plugins	1	zsh	:
+pane	ams	4	:zsh	1	:*	1	:/Users/hedley/.tmux/awesome-terminal-fonts/fonts	1	zsh	:
+pane	ams	4	:zsh	1	:*	2	:/Users/hedley/.tmux/plugins	0	zsh	:
+pane	ams	5	:zsh	0	:	1	:/Users/hedley	1	zsh	:
+window	ams	1	0	:	abfc,238x60,0,0[238x24,0,0,9,238x35,0,25{118x35,0,25,11,119x35,119,25,10}]
+window	ams	2	0	:	7097,238x60,0,0{119x60,0,0,17,118x60,120,0,18}
+window	ams	3	0	:-	59e3,238x60,0,0,14
+window	ams	4	1	:*	5997,238x60,0,0{156x60,0,0,15,81x60,157,0,16}
+window	ams	5	0	:	59e8,238x60,0,0,19
+state	ams	

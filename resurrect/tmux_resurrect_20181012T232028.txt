@@ -1,0 +1,26 @@
+pane	0	1	:zsh	1	:*	0	:/Users/hedley	1	zsh	:
+pane	1	1	:zsh	0	:-	0	:/Users/hedley	0	zsh	:
+pane	1	1	:zsh	0	:-	1	:/Users/hedley/Elex/cok/SFS2X	0	zsh	:
+pane	1	1	:zsh	0	:-	2	:/Users/hedley	0	zsh	:
+pane	1	1	:zsh	0	:-	3	:/Users/hedley/Elex/cok/SFS2X	1	zsh	:
+pane	1	2	:test	0	:	0	:/Users/hedley	0	zsh	:
+pane	1	2	:test	0	:	1	:/Users/hedley	1	zsh	:
+pane	1	3	:remote	1	:*	0	:/Users/hedley	1	zsh	:
+pane	1	3	:remote	1	:*	1	:/Users/hedley	0	zsh	:
+pane	ams	1	:local	1	:*	0	:/Users/hedley	0	zsh	:
+pane	ams	1	:local	1	:*	1	:/Users/hedley/.tmux/resurrect	0	zsh	:
+pane	ams	1	:local	1	:*	2	:/Users/hedley/Elex/cok/SFS2X/resource	1	zsh	:
+pane	ams	2	:test	0	:-	0	:/Users/hedley	0	zsh	:
+pane	ams	2	:test	0	:-	1	:/Users/hedley	1	zsh	:
+pane	ams	3	:remote	0	:	0	:/Users/hedley/.tmux/plugins	1	zsh	:
+pane	ams	4	:zsh	0	:	0	:/Users/hedley/.tmux/awesome-terminal-fonts/fonts	1	zsh	:
+pane	ams	4	:zsh	0	:	1	:/Users/hedley/.tmux/plugins	0	zsh	:
+window	0	1	1	:*	b75d,238x61,0,0,0
+window	1	1	0	:-	f9c8,238x61,0,0{156x61,0,0,1,81x61,157,0[81x16,157,0,2,81x26,157,17,3,81x17,157,44,4]}
+window	1	2	0	:	b74c,238x61,0,0{118x61,0,0,5,119x61,119,0,6}
+window	1	3	1	:*	73bf,238x61,0,0{119x61,0,0,7,118x61,120,0,8}
+window	ams	1	1	:*	0dc0,238x61,0,0{129x61,0,0,9,108x61,130,0[108x28,130,0,10,108x32,130,29,11]}
+window	ams	2	0	:-	29bb,238x61,0,0[238x30,0,0,12,238x30,0,31,13]
+window	ams	3	0	:	5be3,238x61,0,0,14
+window	ams	4	0	:	9bd7,238x61,0,0{156x61,0,0,15,81x61,157,0,16}
+state	ams	1

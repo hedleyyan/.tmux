@@ -1,0 +1,22 @@
+pane	1	1	:local	0	:-	0	:/Users/hedley/Elex/cok/SFS2X	0	zsh	:
+pane	1	1	:local	0	:-	1	:/Users/hedley/Elex/cok/SFS2X	0	zsh	:
+pane	1	1	:local	0	:-	2	:/Users/hedley	0	zsh	:
+pane	1	1	:local	0	:-	3	:/Users/hedley/Elex/cok/SFS2X	1	zsh	:
+pane	1	2	:test	0	:	0	:/Users/hedley	0	zsh	:
+pane	1	2	:test	0	:	1	:/Users/hedley	1	zsh	:
+pane	1	3	:remote	1	:*	0	:/Users/hedley	0	zsh	:
+pane	1	3	:remote	1	:*	1	:/Users/hedley	1	zsh	:
+pane	ams	1	:local	1	:*	0	:/Users/hedley/.tmux/plugins	0	zsh	:
+pane	ams	1	:local	1	:*	1	:/Users/hedley/.tmux/plugins	0	zsh	:
+pane	ams	1	:local	1	:*	2	:/Users/hedley/.tmux/plugins	1	zsh	:
+pane	ams	1	:local	1	:*	3	:/Users/hedley/.tmux/plugins	0	zsh	:
+pane	ams	2	:test	0	:	0	:/Users/hedley/.tmux/plugins	1	expect	:/usr/bin/expect /Users/hedley/Shell/hg_test_server
+pane	ams	2	:test	0	:	1	:/Users/hedley/.tmux/plugins	0	expect	:/usr/bin/expect /Users/hedley/Shell/hg_test_server998
+pane	ams	3	:remote	0	:-	0	:/Users/hedley/.tmux/plugins	1	zsh	:
+window	1	1	0	:-	b4f5,236x70,0,0{155x70,0,0,3,80x70,156,0[80x19,156,0,4,80x29,156,20,5,80x20,156,50,6]}
+window	1	2	0	:	4c7f,236x70,0,0{117x70,0,0,7,118x70,118,0,8}
+window	1	3	1	:*	6acd,236x70,0,0{118x70,0,0,9,117x70,119,0,10}
+window	ams	1	1	:*	b69b,236x70,0,0{118x70,0,0,0,117x70,119,0[117x15,119,0,11,117x37,119,16,12,117x16,119,54,13]}
+window	ams	2	0	:	4c76,236x70,0,0{117x70,0,0,1,118x70,118,0,2}
+window	ams	3	0	:-	5a63,236x70,0,0,14
+state	ams	1

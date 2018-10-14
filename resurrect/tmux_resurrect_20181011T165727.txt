@@ -1,0 +1,27 @@
+pane	0	1	:[tmux]	1	:*	0	:/Users/hedley/.tmux/plugins	1	zsh	:
+pane	1	1	:local	0	:-	0	:/Users/hedley/Elex/cok/SFS2X	0	zsh	:
+pane	1	1	:local	0	:-	1	:/Users/hedley/Elex/cok/SFS2X	0	zsh	:
+pane	1	1	:local	0	:-	2	:/Users/hedley	0	zsh	:
+pane	1	1	:local	0	:-	3	:/Users/hedley/Elex/cok/SFS2X	1	zsh	:
+pane	1	2	:test	0	:	0	:/Users/hedley	0	zsh	:
+pane	1	2	:test	0	:	1	:/Users/hedley	1	zsh	:
+pane	1	3	:remote	1	:*	0	:/Users/hedley	0	zsh	:
+pane	1	3	:remote	1	:*	1	:/Users/hedley	1	zsh	:
+pane	ams	1	:local	0	:	0	:/Users/hedley/Elex/cok/SFS2X	1	tail	:tail -f logs/smartfox.log
+pane	ams	1	:local	0	:	1	:/Users/hedley/.tmux/resurrect	0	zsh	:
+pane	ams	1	:local	0	:	2	:/Users/hedley/Elex/cok/SFS2X/resource	0	zsh	:
+pane	ams	1	:local	0	:	3	:/Users/hedley/Elex/cok/SFS2X/extensions/ZSC1	0	zsh	:
+pane	ams	2	:test	1	:*Z	0	:/Users/hedley/.tmux/plugins	0	expect	:/usr/bin/expect /Users/hedley/Shell/hg_test_server
+pane	ams	2	:test	1	:*Z	1	:/Users/hedley/.tmux/plugins	1	expect	:/usr/bin/expect /Users/hedley/Shell/hg_test_server998
+pane	ams	3	:remote	0	:	0	:/Users/hedley/.tmux/plugins	1	zsh	:
+pane	ams	4	:zsh	0	:-	0	:/Users/hedley/Shell	1	zsh	:
+pane	ams	4	:zsh	0	:-	1	:/Users/hedley/.tmux/plugins	0	zsh	:
+window	0	1	1	:*	b45d,236x70,0,0,0
+window	1	1	0	:-	3472,236x70,0,0{155x70,0,0,1,80x70,156,0[80x19,156,0,2,80x29,156,20,3,80x20,156,50,4]}
+window	1	2	0	:	4c7c,236x70,0,0{117x70,0,0,5,118x70,118,0,6}
+window	1	3	1	:*	54ef,236x70,0,0{118x70,0,0,7,117x70,119,0,8}
+window	ams	1	0	:	be69,236x70,0,0{158x70,0,0,9,77x70,159,0[77x19,159,0,10,77x32,159,20,11,77x17,159,53,12]}
+window	ams	2	1	:*Z	c39c,236x70,0,0[236x34,0,0,13,236x35,0,35,14]
+window	ams	3	0	:	5a64,236x70,0,0,15
+window	ams	4	0	:-	7582,236x70,0,0{168x70,0,0,17,67x70,169,0,18}
+state	ams	1
